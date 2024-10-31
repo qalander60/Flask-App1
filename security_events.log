@@ -1,0 +1,48 @@
+2024-10-23 06:24:52,529 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:80
+2024-10-23 06:24:52,529 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-23 06:24:52,529 - INFO -  * Restarting with stat
+2024-10-23 06:24:53,998 - WARNING -  * Debugger is active!
+2024-10-23 06:24:54,004 - INFO -  * Debugger PIN: 606-325-346
+2024-10-23 06:26:53,357 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:80
+2024-10-23 06:26:53,357 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-23 06:26:53,357 - INFO -  * Restarting with stat
+2024-10-23 06:26:54,840 - WARNING -  * Debugger is active!
+2024-10-23 06:26:54,855 - INFO -  * Debugger PIN: 606-325-346
+2024-10-23 06:27:13,375 - INFO - 127.0.0.1 - - [23/Oct/2024 06:27:13] "GET / HTTP/1.1" 200 -
+2024-10-23 06:27:35,324 - INFO - SUCCESS: User qlndr@app.com - Login successful
+2024-10-23 06:27:35,324 - INFO - 127.0.0.1 - - [23/Oct/2024 06:27:35] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-10-23 06:27:35,377 - INFO - 127.0.0.1 - - [23/Oct/2024 06:27:35] "GET /display1 HTTP/1.1" 200 -
+2024-10-23 06:28:42,014 - INFO - 127.0.0.1 - - [23/Oct/2024 06:28:42] "[32mPOST /logout HTTP/1.1[0m" 302 -
+2024-10-23 06:28:42,023 - INFO - 127.0.0.1 - - [23/Oct/2024 06:28:42] "GET / HTTP/1.1" 200 -
+2024-10-23 06:32:52,123 - WARNING - FAILURE: User qlndr@app.com - Login failed due to incorrect credentials
+2024-10-23 06:32:52,123 - INFO - 127.0.0.1 - - [23/Oct/2024 06:32:52] "POST / HTTP/1.1" 200 -
+2024-10-23 06:34:20,687 - INFO -  * Detected change in 'D:\\Semester_07\\SSD_Lab\\lab_08\\app.py', reloading
+2024-10-23 06:34:20,878 - INFO -  * Restarting with stat
+2024-10-23 06:34:22,785 - WARNING -  * Debugger is active!
+2024-10-23 06:34:22,791 - INFO -  * Debugger PIN: 606-325-346
+2024-10-23 06:36:22,935 - INFO -  * Detected change in 'D:\\Semester_07\\SSD_Lab\\lab_08\\app.py', reloading
+2024-10-23 06:36:23,116 - INFO -  * Restarting with stat
+2024-10-23 06:36:24,732 - WARNING -  * Debugger is active!
+2024-10-23 06:36:24,732 - INFO -  * Debugger PIN: 606-325-346
+2024-10-23 06:36:49,179 - INFO - 127.0.0.1 - - [23/Oct/2024 06:36:49] "GET / HTTP/1.1" 200 -
+2024-10-23 06:37:01,355 - INFO - 127.0.0.1 - - [23/Oct/2024 06:37:01] "GET / HTTP/1.1" 200 -
+2024-10-23 06:37:23,724 - INFO - SUCCESS: User qlndr@app.com - Login successful
+2024-10-23 06:37:23,724 - INFO - 127.0.0.1 - - [23/Oct/2024 06:37:23] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-10-23 06:37:23,755 - INFO - 127.0.0.1 - - [23/Oct/2024 06:37:23] "GET /display1 HTTP/1.1" 200 -
+2024-10-23 06:37:26,442 - INFO - SUCCESS: User qlndr@app.com - Logged out successfully
+2024-10-23 06:37:26,442 - INFO - 127.0.0.1 - - [23/Oct/2024 06:37:26] "[32mPOST /logout HTTP/1.1[0m" 302 -
+2024-10-23 06:37:26,458 - INFO - 127.0.0.1 - - [23/Oct/2024 06:37:26] "GET / HTTP/1.1" 200 -
+2024-10-23 08:39:21,939 - INFO - 127.0.0.1 - - [23/Oct/2024 08:39:21] "GET / HTTP/1.1" 200 -
+2024-10-23 08:39:22,054 - INFO - 127.0.0.1 - - [23/Oct/2024 08:39:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-10-23 08:39:56,046 - INFO - SUCCESS: User qlndr@app.com - Login successful
+2024-10-23 08:39:56,046 - INFO - 127.0.0.1 - - [23/Oct/2024 08:39:56] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-10-23 08:39:56,078 - INFO - 127.0.0.1 - - [23/Oct/2024 08:39:56] "GET /display1 HTTP/1.1" 200 -
+2024-10-23 08:40:24,389 - INFO - SUCCESS: User qlndr@app.com - Logged out successfully
+2024-10-23 08:40:24,397 - INFO - 127.0.0.1 - - [23/Oct/2024 08:40:24] "[32mPOST /logout HTTP/1.1[0m" 302 -
+2024-10-23 08:40:24,405 - INFO - 127.0.0.1 - - [23/Oct/2024 08:40:24] "GET / HTTP/1.1" 200 -
+2024-10-23 08:40:54,694 - WARNING - FAILURE: User qlndr@app.com - Login failed due to incorrect credentials
+2024-10-23 08:40:54,694 - INFO - 127.0.0.1 - - [23/Oct/2024 08:40:54] "POST / HTTP/1.1" 200 -
+2024-10-23 08:41:06,512 - WARNING - FAILURE: User qlndr@app.com - Login failed due to incorrect credentials
+2024-10-23 08:41:06,512 - INFO - 127.0.0.1 - - [23/Oct/2024 08:41:06] "POST / HTTP/1.1" 200 -

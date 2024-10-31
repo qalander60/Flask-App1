@@ -1,0 +1,5 @@
+.\env\Scripts\activate.ps1
+
+SQL Injection: You are protected from SQL injection attacks by using Flask-SQLAlchemy, 
+which handles queries safely. You should still validate user input and avoid directly 
+embedding user input into SQL queries.
